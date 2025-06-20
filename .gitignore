@@ -1,0 +1,15 @@
+# Node
+node_modules/
+yarn.lock
+npm-debug.log*
+.DS_Store
+
+# Docker
+**/node_modules/
+**/build/
+**/dist/
+**/.dockerignore
+
+# IDEs
+.vscode/
+.idea/
